@@ -8,4 +8,6 @@ cadastro/login:
 
 
 
-![Capturar](https://github.com/user-attachments/assets/8158c510-a7bc-45d7-959e-ff89081595b1)
+
+![TELA2](https://github.com/user-attachments/assets/a290fec5-9929-49ad-87f4-3ceb535f523f)
+![TELA1](https://github.com/user-attachments/assets/faafe3c9-4bd7-4a25-adc6-cddaaf26073e)
